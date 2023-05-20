@@ -6,6 +6,6 @@ export function Home(){
         <Menu>
             
         </Menu>
-        </>
+      </>
     )
 }
